@@ -1,8 +1,8 @@
 # Spring boot Boilerplate 
-![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
+![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=git)
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
 
-![github](https://www.readmecodegen.com/api/social-icon?name=github&size=32&color=%23ffffff) 
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=32) 
 ![java](https://www.readmecodegen.com/api/social-icon?name=java&size=32) 
 ![springboot](https://www.readmecodegen.com/api/social-icon?name=springboot&size=32)
 ![apachemaven](https://www.readmecodegen.com/api/social-icon?name=apachemaven&size=32)
